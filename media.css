@@ -1,0 +1,1669 @@
+@media (max-width: 1400px) {
+    .container{
+        width: 85%;
+    }
+}
+@media (max-width: 1200px) {
+    .container{
+        width: 85%;
+    }
+}
+@media (max-width: 1024px) {
+    .container{
+        width: 85%;
+    }
+}
+@media (max-width: 993px) {
+    .container{
+        width: 85%;
+    }
+    .product2{
+        display: none;
+    }
+    .texts-one{
+        width: 500px;
+    }
+    .texts-one h1{
+        font-size: 30px;
+        margin: 0 0 0 0;
+    }
+    .texts-one p{
+        font-size: 16px;
+    }
+    .img-one img{
+        width: 80%;
+        height: 80%;
+        margin-left: 40px;
+    }
+    .hero-btn button{
+        width: 120px;
+        height: 30px;
+    }
+    .hero-btn a{
+        font-size: 15px;
+    }
+    .title-two{
+        font-size: 28px;
+    }
+    .iconsone{
+        display: grid;
+        grid-template-columns: 200px 200px;
+    }
+    .first{
+        margin: 20px 0;
+    }
+    .first h1{
+        font-size: 18px;
+    }
+    .texts-two{
+        width: 500px;
+    }
+    .texts-two h1{
+        font-size: 28px;
+        margin: 0 0 0 0;
+        line-height: 26px;
+    }
+    .texts-two p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .img-two img{
+        width: 80%;
+        height: 80%;
+        margin-left: 60px;
+    }
+    .image1 img{
+        width: 80%;
+        height: 36%;
+    }
+    .texts-three h4{
+        font-size: 22px;
+    }
+    .texts-three h1{
+        font-size: 24px;
+    }
+    .texts-three p{
+        font-size: 14px;
+    }
+    .texts-four{
+        width: 700px;
+    }
+    .texts-four h4{
+        font-size: 22px;
+    }
+    .texts-four h1{
+        font-size: 24px;
+    }
+    .texts-four p{
+        font-size: 14px;
+    }
+    .img-three img{
+        width: 80%;
+        height: 80%;
+        margin-left: 60px;
+    }
+    .block-ava{
+        flex-direction: column;
+        align-items: center;
+    }
+    .block-ava{
+        margin: 20px 0;
+    }
+    .block-two{
+        margin: 20px 0;
+    }
+    .block-three{
+        margin: 20px 0;
+    }
+    .btn4{
+        justify-content: center;
+    }
+    .hero-six button{
+        width: 160px;
+        font-size: 14px;
+    }
+    .block-1{
+        height: 286px;
+        width: 247px;
+    }
+    .block-1 img{
+        width: 70%;
+        height: 50%;
+    }
+    .div-one{
+        height: 396px;
+        width: 252px;
+    }
+    .div-onee{
+        height: 396px;
+        width: 252px;
+        margin: 0 20px;
+    }
+    .div-two{
+        height: 396px;
+        width: 252px;
+    }
+    .texts-nine h4{
+        font-size: 20px;
+    }
+    .texts-nine p{
+        font-size: 14px;
+        margin: 1px;
+    }
+    .texts-nine img{
+        width: 50%;
+        height: 50%;
+        margin-left: 50px ;
+    }
+
+    .texts-nine button{
+        width: 120px;
+        height: 45px;
+        margin-left: 40px;
+    }
+    .block-2{
+        width: 40%;
+        /*height: 20%;*/
+        margin: 10px;
+    }
+    .texts-one img{
+        width: 30%;
+        height: 30%;
+    }
+    .texts-ten p{
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .green{
+        width: 868px;
+        height: 345px;
+    }
+    .green h2{
+        font-size: 20px;
+    }
+    .green img{
+        width: 100%;
+        height: 80%;
+    }
+    .texts-eleven button{
+        width: 120px;
+        height: 40px;
+    }
+    .footer{
+        /*display: grid;*/
+        /*grid-template-columns: 200px 300px 150px;*/
+        justify-content: space-around;
+    }
+    .texts-twelve h1{
+        font-size: 14px;
+    }
+    .texts-twelve p{
+        font-size: 12px;
+    }
+    .textss p{
+        font-size: 12px;
+    }
+    .white{
+        height: 39px;
+        width: 121px;
+    }
+    .last-text{
+        font-size: 14px;
+    }
+}
+@media (max-width: 768px) {
+    .container{
+        width: 85%;
+    }
+    .product2{
+       display: none;
+   }
+   .texts-one{
+       width: 500px;
+   }
+   .texts-one h1{
+       font-size: 30px;
+       margin: 0 0 0 0;
+   }
+   .texts-one p{
+       font-size: 16px;
+   }
+   .img-one img{
+       width: 80%;
+       height: 80%;
+       margin-left: 40px;
+   }
+   .hero-btn button{
+       width: 120px;
+       height: 30px;
+   }
+   .hero-btn a{
+       font-size: 15px;
+   }
+   .title-two{
+       font-size: 28px;
+   }
+   .iconsone{
+display: grid;
+       grid-template-columns: 200px 200px;
+   }
+   .first{
+margin: 20px 0;
+   }
+   .first h1{
+       font-size: 18px;
+   }
+    .texts-two{
+        width: 500px;
+    }
+    .texts-two h1{
+        font-size: 28px;
+        margin: 0 0 0 0;
+        line-height: 26px;
+    }
+    .texts-two p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .img-two img{
+        width: 80%;
+        height: 80%;
+        margin-left: 60px;
+    }
+    .image1 img{
+        width: 80%;
+        height: 36%;
+    }
+    .texts-three h4{
+        font-size: 22px;
+    }
+    .texts-three h1{
+        font-size: 24px;
+    }
+    .texts-three p{
+        font-size: 14px;
+    }
+    .texts-four{
+        width: 700px;
+    }
+    .texts-four h4{
+        font-size: 22px;
+    }
+  .texts-four h1{
+        font-size: 24px;
+    }
+    .texts-four p{
+        font-size: 14px;
+    }
+    .img-three img{
+        width: 80%;
+        height: 80%;
+        margin-left: 60px;
+    }
+    .block-ava{
+      flex-direction: column;
+        align-items: center;
+    }
+    .block-ava{
+        margin: 20px 0;
+    }
+    .block-two{
+    margin: 20px 0;
+    }
+    .block-three{
+        margin: 20px 0;
+    }
+    .btn4{
+        justify-content: center;
+    }
+    .hero-six button{
+        width: 160px;
+        font-size: 14px;
+    }
+    .block-1{
+        height: 286px;
+        width: 247px;
+    }
+    .block-1 img{
+        width: 70%;
+        height: 50%;
+    }
+    .div-one{
+        height: 356px;
+        width: 222px;
+    }
+    .div-onee{
+        height: 356px;
+        width: 222px;
+        margin: 0 20px;
+    }
+    .div-two{
+        height: 356px;
+        width: 222px;
+    }
+    .texts-nine h4{
+        font-size: 20px;
+    }
+    .texts-nine p{
+        font-size: 14px;
+        margin: 1px;
+    }
+    .texts-nine img{
+        width: 50%;
+        height: 50%;
+       margin-left: 50px ;
+    }
+
+    .texts-nine button{
+        width: 120px;
+        height: 45px;
+        margin-left: 40px;
+    }
+    .block-2{
+        width: 40%;
+        /*height: 20%;*/
+        margin: 10px;
+    }
+    .texts-one img{
+        width: 30%;
+        height: 30%;
+    }
+    .texts-ten p{
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .green{
+        width: 568px;
+        height: 245px;
+    }
+    .green h2{
+        font-size: 20px;
+    }
+    .green img{
+        width: 100%;
+        height: 80%;
+    }
+    .texts-eleven button{
+        width: 120px;
+        height: 40px;
+    }
+    .footer{
+        /*display: grid;*/
+        /*grid-template-columns: 200px 300px 150px;*/
+        justify-content: space-around;
+    }
+    .texts-twelve h1{
+        font-size: 14px;
+    }
+    .texts-twelve p{
+        font-size: 12px;
+    }
+    .textss p{
+        font-size: 12px;
+    }
+    .white{
+        height: 39px;
+        width: 121px;
+    }
+    .last-text{
+        font-size: 14px;
+    }
+}
+@media (max-width: 576px) {
+    .container{
+        width: 85%;
+    }
+    .product2{
+        display: none;
+    }
+    .hero-one{
+        flex-direction: column;
+    }
+    .img-one{
+        margin-top: 40px;
+    }
+    .texts-one{
+        width: 500px;
+    }
+    .texts-one h1{
+        font-size: 30px;
+        margin: 0 0 0 0;
+    }
+    .texts-one p{
+        font-size: 16px;
+    }
+    .img-one img{
+        width: 80%;
+        height: 80%;
+        margin-left: 40px;
+    }
+    .hero-btn {
+        width: 350px;
+    }
+    .hero-btn button{
+        width: 120px;
+        height: 30px;
+    }
+    .hero-btn a{
+        font-size: 15px;
+    }
+    .title-two{
+        font-size: 28px;
+    }
+    .iconsone{
+        display: grid;
+        grid-template-columns: 200px 200px;
+    }
+    .first{
+        margin: 20px 0;
+    }
+    .first h1{
+        font-size: 18px;
+    }
+    .hero-three{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .texts-two{
+        width: 500px;
+    }
+    .texts-two h1{
+        font-size: 28px;
+        margin: 0 0 0 0;
+        line-height: 26px;
+    }
+    .texts-two p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .img-two img{
+        width: 80%;
+        height: 80%;
+       margin-top: 20px;
+    }
+    .hero-four{
+        flex-direction: column;
+    }
+    .image1 img{
+        width: 80%;
+        height: 36%;
+    }
+    .texts-three h4{
+        font-size: 22px;
+    }
+    .texts-three h1{
+        font-size: 24px;
+    }
+    .texts-three p{
+        font-size: 14px;
+    }
+    .hero-five{
+        flex-direction: column;
+
+       width: 500px;
+    }
+    .texts-four{
+        width: 500px;
+    }
+    .texts-four h4{
+        font-size: 22px;
+    }
+    .texts-four h1{
+        font-size: 24px;
+    }
+    .texts-four p{
+        font-size: 14px;
+    }
+    .img-three img{
+        width: 80%;
+        height: 80%;
+        /*margin-left: 60px;*/
+        margin-top: 30px;
+    }
+    .hero-six{
+        margin-top: 100px;
+    }
+    .block-ava{
+        flex-direction: column;
+        align-items: center;
+    }
+    .block-ava{
+        margin: 20px 0;
+    }
+    .block-two{
+        margin: 20px 0;
+    }
+    .block-three{
+        margin: 20px 0;
+    }
+    .btn4{
+        justify-content: center;
+    }
+    .hero-six button{
+        width: 160px;
+        font-size: 14px;
+    }
+    .block-1{
+        height: 286px;
+        width: 247px;
+    }
+    .block-1 img{
+        width: 70%;
+        height: 50%;
+    }
+    .hero-eight{
+        flex-wrap: wrap;
+    }
+    .div-one{
+        height: 396px;
+        width: 252px;
+    }
+    .div-onee{
+        height: 396px;
+        width: 252px;
+        margin: 20px 0;
+    }
+    .div-two{
+        height: 396px;
+        width: 252px;
+    }
+    .hero-nine{
+        margin-top: 500px;
+    }
+    .all{
+        flex-direction: column;
+        align-items: center;
+    }
+    .texts-nine h4{
+        font-size: 20px;
+    }
+    .texts-nine p{
+        font-size: 14px;
+        margin: 1px;
+    }
+    .texts-nine img{
+        width: 50%;
+        height: 50%;
+        margin-left: 50px ;
+    }
+
+    .texts-nine button{
+        width: 120px;
+        height: 45px;
+        margin-left: 40px;
+    }
+    .block-2{
+        /*width: 40%;*/
+        /*height: 20%;*/
+        margin: 10px;
+        height: 256px;
+        width: 322px;
+    }
+    .texts-ten img{
+        width: 30%;
+        height: 30%;
+    }
+    .texts-ten p{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .green{
+        width: 568px;
+        height: 245px;
+    }
+    .green h2{
+        font-size: 18px;
+    }
+    .green img{
+        width: 100%;
+        height: 80%;
+    }
+    .texts-eleven{
+        margin-left: 20px;
+    }
+    .texts-eleven button{
+        width: 100px;
+        height: 40px;
+    }
+    .footer{
+        /*display: grid;*/
+        /*grid-template-columns: 200px 300px 150px;*/
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 300px;
+    }
+    .texts-twelve h1{
+        font-size: 20px;
+        text-align: center;
+    }
+    .texts-twelve p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .textss p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .white{
+        height: 39px;
+        width: 121px;
+    }
+    .last-text{
+        font-size: 14px;
+        margin-top: 300px;
+    }
+}
+@media (max-width: 480px) {
+    .container{
+        width: 85%;
+    }
+    .product2{
+        display: none;
+    }
+    .hero-one{
+        flex-direction: column;
+    }
+    .img-one{
+        margin-top: 40px;
+    }
+    .texts-one{
+        width: 500px;
+    }
+    .texts-one h1{
+        font-size: 30px;
+        margin: 0 0 0 0;
+    }
+    .texts-one p{
+        font-size: 16px;
+    }
+    .img-one img{
+        width: 80%;
+        height: 80%;
+        margin-left: 40px;
+    }
+    .hero-btn {
+        width: 350px;
+    }
+    .hero-btn button{
+        width: 120px;
+        height: 30px;
+    }
+    .hero-btn a{
+        font-size: 15px;
+    }
+    .title-two{
+        font-size: 28px;
+    }
+    .iconsone{
+        display: grid;
+        grid-template-columns: 200px 200px;
+    }
+    .first{
+        margin: 20px 0;
+    }
+    .first h1{
+        font-size: 18px;
+    }
+    .hero-three{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .texts-two{
+        width: 500px;
+    }
+    .texts-two h1{
+        font-size: 28px;
+        margin: 0 0 0 0;
+        line-height: 26px;
+    }
+    .texts-two p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .img-two img{
+        width: 80%;
+        height: 80%;
+        margin-top: 20px;
+    }
+    .hero-four{
+        flex-direction: column;
+    }
+    .image1 img{
+        width: 80%;
+        height: 36%;
+    }
+    .texts-three h4{
+        font-size: 22px;
+    }
+    .texts-three h1{
+        font-size: 24px;
+    }
+    .texts-three p{
+        font-size: 14px;
+    }
+    .hero-five{
+        flex-direction: column;
+align-items: center;
+        width: 450px;
+    }
+    .texts-four{
+        width: 450px;
+    }
+    .texts-four h4{
+        font-size: 22px;
+    }
+    .texts-four h1{
+        font-size: 24px;
+    }
+    .texts-four p{
+        font-size: 14px;
+    }
+    .img-three img{
+        width: 80%;
+        height: 80%;
+        /*margin-left: 60px;*/
+        margin-top: 30px;
+    }
+    .hero-six{
+        margin-top: 100px;
+    }
+    .block-ava{
+        flex-direction: column;
+        align-items: center;
+    }
+    .block-ava{
+        margin: 20px 0;
+    }
+    .block-two{
+        margin: 20px 0;
+    }
+    .block-three{
+        margin: 20px 0;
+    }
+    .btn4{
+        justify-content: center;
+    }
+    .hero-six button{
+        width: 160px;
+        font-size: 14px;
+    }
+    .block-1{
+        height: 286px;
+        width: 247px;
+    }
+    .block-1 img{
+        width: 70%;
+        height: 50%;
+    }
+    .hero-eight{
+        flex-wrap: wrap;
+    }
+    .div-one{
+        height: 396px;
+        width: 252px;
+    }
+    .div-onee{
+        height: 396px;
+        width: 252px;
+        margin: 20px 0;
+    }
+    .div-two{
+        height: 396px;
+        width: 252px;
+    }
+    .hero-nine{
+        margin-top: 500px;
+    }
+    .all{
+        flex-direction: column;
+        align-items: center;
+    }
+    .texts-nine h4{
+        font-size: 20px;
+    }
+    .texts-nine p{
+        font-size: 14px;
+        margin: 1px;
+    }
+    .texts-nine img{
+        width: 50%;
+        height: 50%;
+        margin-left: 50px ;
+    }
+
+    .texts-nine button{
+        width: 120px;
+        height: 45px;
+        margin-left: 40px;
+    }
+    .block-2{
+        /*width: 40%;*/
+        /*height: 20%;*/
+        margin: 10px;
+        height: 256px;
+        width: 322px;
+    }
+    .texts-ten img{
+        width: 30%;
+        height: 30%;
+    }
+    .texts-ten p{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .green{
+        width: 568px;
+        height: 245px;
+    }
+    .green h2{
+        font-size: 18px;
+    }
+    .green img{
+        width: 100%;
+        height: 80%;
+    }
+    .texts-eleven{
+        margin-left: 20px;
+    }
+    .texts-eleven button{
+        width: 100px;
+        height: 40px;
+    }
+    .footer{
+        /*display: grid;*/
+        /*grid-template-columns: 200px 300px 150px;*/
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 300px;
+    }
+    .texts-twelve h1{
+        font-size: 20px;
+        text-align: center;
+    }
+    .texts-twelve p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .textss p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .white{
+        height: 39px;
+        width: 121px;
+    }
+    .last-text{
+        font-size: 14px;
+        margin-top: 300px;
+    }
+}
+@media (max-width: 414px) {
+    .container{
+        width: 85%;
+    }
+    .product2{
+        display: none;
+    }
+    .hero-one{
+        flex-direction: column;
+    }
+    .img-one{
+        margin-top: 40px;
+    }
+    .texts-one{
+        width: 500px;
+    }
+    .texts-one h1{
+        font-size: 30px;
+        margin: 0 0 0 0;
+    }
+    .texts-one p{
+        font-size: 16px;
+    }
+    .img-one img{
+        width: 80%;
+        height: 80%;
+        margin-left: 40px;
+    }
+    .hero-btn {
+        width: 350px;
+    }
+    .hero-btn button{
+        width: 120px;
+        height: 30px;
+    }
+    .hero-btn a{
+        font-size: 15px;
+    }
+    .title-two{
+        font-size: 28px;
+    }
+    .iconsone{
+        display: grid;
+        grid-template-columns: 200px 200px;
+        margin-left: 40px;
+    }
+    .first{
+        margin: 20px 0;
+    }
+    .first h1{
+        font-size: 16px;
+    }
+    .first p{
+        font-size: 14px;
+    }
+    .hero-three{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .texts-two{
+        width: 300px;
+    }
+    .texts-two h1{
+        font-size: 28px;
+        margin: 0 0 0 0;
+        line-height: 26px;
+    }
+    .texts-two p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .img-two img{
+        width: 80%;
+        height: 80%;
+        margin-top: 20px;
+    }
+    .hero-four{
+        flex-direction: column;
+    }
+    .image1 img{
+        width: 80%;
+        height: 36%;
+    }
+    .texts-three h4{
+        font-size: 22px;
+    }
+    .texts-three h1{
+        font-size: 24px;
+    }
+    .texts-three p{
+        font-size: 13px;
+    }
+    .hero-five{
+        flex-direction: column;
+        width: 300px;
+        margin-top: 40px;
+    }
+    .texts-four{
+        width: 300px;
+    }
+    .texts-four h4{
+        font-size: 22px;
+    }
+    .texts-four h1{
+        font-size: 24px;
+    }
+    .texts-four p{
+        font-size: 14px;
+    }
+    .img-three img{
+        width: 80%;
+        height: 80%;
+        /*margin-left: 60px;*/
+        margin-top: 30px;
+    }
+    .hero-six{
+        margin-top: 200px;
+    }
+    .block-ava{
+        /*flex-direction: column;*/
+        align-items: center;
+    }
+    .block-ava{
+        margin: 20px 0;
+    }
+    .block-two{
+        margin: 20px 0;
+
+    }
+    .block-three{
+        margin: 20px 0;
+    }
+    .btn4{
+        justify-content: center;
+    }
+    .hero-six button{
+        width: 160px;
+        font-size: 14px;
+    }
+    .block-1{
+        height: 286px;
+        width: 247px;
+    }
+    .block-1 img{
+        width: 70%;
+        height: 50%;
+    }
+    .hero-eight{
+        flex-wrap: wrap;
+    }
+    .div-one{
+        height: 396px;
+        width: 252px;
+    }
+    .div-onee{
+        height: 396px;
+        width: 252px;
+        margin: 20px 0;
+    }
+    .div-two{
+        height: 396px;
+        width: 252px;
+    }
+    .hero-nine{
+        margin-top: 500px;
+    }
+    .all{
+        flex-direction: column;
+        align-items: center;
+    }
+    .texts-nine h4{
+        font-size: 20px;
+    }
+    .texts-nine p{
+        font-size: 14px;
+        margin: 1px;
+    }
+    .texts-nine img{
+        width: 50%;
+        height: 50%;
+        margin-left: 50px ;
+    }
+
+    .texts-nine button{
+        width: 120px;
+        height: 45px;
+        margin-left: 40px;
+    }
+    .block-2{
+        /*width: 40%;*/
+        /*height: 20%;*/
+        margin: 10px;
+        height: 256px;
+        width: 322px;
+    }
+    .texts-ten img{
+        width: 30%;
+        height: 30%;
+    }
+    .texts-ten p{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .green{
+        width: 568px;
+        height: 445px;
+        flex-direction:column;
+        justify-content: space-around;
+        /*align-items: center;*/
+        padding-left: 20px;
+    }
+    .green h2{
+        font-size: 18px;
+    }
+    .green img{
+        width: 80%;
+        height: 90%;
+    }
+    .texts-eleven{
+        margin-left: 20px;
+    }
+    .texts-eleven button{
+        width: 100px;
+        height: 40px;
+    }
+    .footer{
+        /*display: grid;*/
+        /*grid-template-columns: 200px 300px 150px;*/
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 300px;
+    }
+    .texts-twelve h1{
+        font-size: 20px;
+        text-align: center;
+    }
+    .texts-twelve p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .textss p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .white{
+        height: 39px;
+        width: 121px;
+    }
+    .last-text{
+        font-size: 14px;
+        margin-top: 300px;
+    }
+}
+@media (max-width: 375px) {
+    .container{
+        width: 85%;
+    }
+    .product2{
+        display: none;
+    }
+    .hero-one{
+        flex-direction: column;
+    }
+    .img-one{
+        margin-top: 40px;
+    }
+    .texts-one{
+        width: 500px;
+    }
+    .texts-one h1{
+        font-size: 30px;
+        margin: 0 0 0 0;
+    }
+    .texts-one p{
+        font-size: 14px;
+    }
+    .img-one img{
+        width: 80%;
+        height: 80%;
+        margin-left: 40px;
+    }
+    .hero-btn {
+        width: 350px;
+    }
+    .hero-btn button{
+        width: 120px;
+        height: 30px;
+    }
+    .hero-btn a{
+        font-size: 15px;
+    }
+    .title-two{
+        font-size: 28px;
+    }
+    .iconsone{
+        display: grid;
+        grid-template-columns: 200px 200px;
+        margin-left: 60px;
+    }
+    .first{
+        margin: 20px 0;
+    }
+    .first h1{
+        font-size: 16px;
+    }
+    .first p{
+        font-size: 12px;
+    }
+    .hero-three{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .texts-two{
+        width: 300px;
+    }
+    .texts-two h1{
+        font-size: 28px;
+        margin: 0 0 0 0;
+        line-height: 26px;
+    }
+    .texts-two p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .img-two img{
+        width: 80%;
+        height: 80%;
+        margin-top: 20px;
+    }
+    .hero-four{
+        flex-direction: column;
+    }
+    .image1 img{
+        width: 80%;
+        height: 36%;
+    }
+    .texts-three h4{
+        font-size: 22px;
+    }
+    .texts-three h1{
+        font-size: 24px;
+    }
+    .texts-three p{
+        font-size: 14px;
+    }
+    .hero-five{
+        flex-direction: column;
+
+        width: 300px;
+    }
+    .texts-four{
+        width: 300px;
+    }
+    .texts-four h4{
+        font-size: 22px;
+    }
+    .texts-four h1{
+        font-size: 24px;
+    }
+    .texts-four p{
+        font-size: 12px;
+    }
+    .img-three img{
+        width: 80%;
+        height: 80%;
+        /*margin-left: 60px;*/
+        margin-top: 30px;
+    }
+    .hero-six{
+        margin-top: 100px;
+    }
+    .block-ava{
+        flex-direction: column;
+        align-items: center;
+    }
+    .block-ava{
+        margin: 20px 0;
+    }
+    .block-two{
+        margin: 20px 0;
+    }
+    .block-three{
+        margin: 20px 0;
+    }
+    .btn4{
+        justify-content: center;
+    }
+    .hero-six button{
+        width: 160px;
+        font-size: 14px;
+    }
+    .block-1{
+        height: 286px;
+        width: 247px;
+    }
+    .block-1 img{
+        width: 70%;
+        height: 50%;
+    }
+    .hero-eight{
+        flex-wrap: wrap;
+    }
+    .div-one{
+        height: 396px;
+        width: 252px;
+    }
+    .div-onee{
+        height: 396px;
+        width: 252px;
+        margin: 20px 0;
+    }
+    .div-two{
+        height: 396px;
+        width: 252px;
+    }
+    .hero-nine{
+        margin-top: 500px;
+    }
+    .all{
+        flex-direction: column;
+        align-items: center;
+    }
+  exts-nine h4{
+        font-size: 20px;
+    }
+    .texts-nine p{
+        font-size: 14px;
+        margin: 1px;
+    }
+    .texts-nine img{
+        width: 50%;
+        height: 50%;
+        margin-left: 50px ;
+    }
+
+    .texts-nine button{
+        width: 120px;
+        height: 45px;
+        margin-left: 40px;
+    }
+    .block-2{
+        /*width: 40%;*/
+        /*height: 20%;*/
+        margin: 10px;
+        height: 246px;
+        width: 302px;
+    }
+    .texts-ten img{
+        width: 30%;
+        height: 30%;
+    }
+    .texts-ten p{
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .green{
+        width: 568px;
+        height: 385px;
+    }
+    .green h2{
+        font-size: 18px;
+    }
+    .green img{
+        width: 80%;
+        height: 80%;
+    }
+    .texts-eleven{
+        margin-left: 20px;
+    }
+    .texts-eleven button{
+        width: 100px;
+        height: 40px;
+    }
+    .footer{
+        /*display: grid;*/
+        /*grid-template-columns: 200px 300px 150px;*/
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 300px;
+    }
+    .texts-twelve h1{
+        font-size: 20px;
+        text-align: center;
+    }
+    .texts-twelve p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .textss p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .white{
+        height: 39px;
+        width: 121px;
+    }
+    .last-text{
+        font-size: 14px;
+        margin-top: 300px;
+    }
+}
+@media (max-width: 320px) {
+    .container{
+        width: 85%;
+    }
+    .product2{
+        display: none;
+    }
+    .product h1{
+        font-size: 24px;
+        margin-top: 5px;
+    }
+    .hero-one{
+        flex-direction: column;
+    }
+    .img-one{
+        margin-top: 40px;
+    }
+    .texts-one{
+        width: 500px;
+    }
+    .texts-one h1{
+        font-size: 26px;
+        margin: 0 0 0 0;
+    }
+    .texts-one p{
+        font-size: 12px;
+    }
+    .img-one img{
+        width: 80%;
+        height: 80%;
+        margin-left: 40px;
+    }
+    .hero-btn {
+        width: 350px;
+    }
+    .hero-btn button{
+        width: 120px;
+        height: 30px;
+    }
+    .hero-btn a{
+        font-size: 15px;
+    }
+    .hero-two{
+        /*display: grid;*/
+        /*grid-template-columns: 100px 100px 100px;*/
+    }
+    .title-two{
+        font-size: 20px;
+    }
+    .iconsone{
+        display: grid;
+        grid-template-columns: 200px ;
+    }
+    .first{
+        margin: 20px 0;
+    }
+    .first h1{
+        font-size: 16px;
+    }
+    .first p{
+        font-size: 12px;
+    }
+    .hero-three{
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 40px;
+    }
+    .texts-two{
+        width: 290px;
+    }
+    .texts-two h1{
+        font-size: 28px;
+        margin: 0 0 0 0;
+        line-height: 26px;
+    }
+    .texts-two p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .img-two img{
+        width: 80%;
+        height: 80%;
+        margin-top: 20px;
+    }
+    .hero-four{
+        flex-direction: column;
+    }
+    .image1 img{
+        width: 80%;
+        height: 36%;
+    }
+    .texts-three h4{
+        font-size: 22px;
+    }
+    .texts-three h1{
+        font-size: 24px;
+    }
+    .texts-three p{
+        font-size: 14px;
+    }
+    .hero-five{
+        flex-direction: column;
+/*align-items: center;*/
+        width: 290px;
+    }
+    .texts-four{
+        width: 290px;
+    }
+    .texts-four h4{
+        font-size: 20px;
+    }
+    .texts-four h1{
+        font-size: 22px;
+    }
+    .texts-four p{
+        font-size: 12px;
+    }
+    .img-three img{
+        width: 80%;
+        height: 80%;
+        /*margin-left: 60px;*/
+        margin-top: 30px;
+
+    }
+    .hero-six{
+        margin-top: 100px;
+    }
+    .block-ava{
+        flex-direction: column;
+        align-items: center;
+    }
+    .block-ava{
+        margin: 20px 0;
+    }
+    .block-two{
+        margin: 20px 0;
+    }
+    .block-three{
+        margin: 20px 0;
+    }
+    .btn4{
+        justify-content: center;
+    }
+    .hero-six button{
+        width: 160px;
+        font-size: 14px;
+    }
+    .block-1{
+        height: 286px;
+        width: 247px;
+    }
+    .block-1 img{
+        width: 70%;
+        height: 50%;
+    }
+    .hero-eight{
+        flex-wrap: wrap;
+    }
+    .div-one{
+        height: 396px;
+        width: 252px;
+    }
+    .div-onee{
+        height: 396px;
+        width: 252px;
+        margin: 20px 0;
+    }
+    .div-two{
+        height: 396px;
+        width: 252px;
+    }
+    .hero-nine{
+        margin-top: 500px;
+    }
+    .all{
+        flex-direction: column;
+        align-items: center;
+    }
+    .texts-nine h4{
+        font-size: 20px;
+    }
+    .texts-nine p{
+        font-size: 14px;
+        margin: 1px;
+    }
+    .texts-nine img{
+        width: 50%;
+        height: 50%;
+        margin-left: 50px ;
+    }
+
+    .texts-nine button{
+        width: 120px;
+        height: 45px;
+        margin-left: 40px;
+    }
+    .block-2{
+        /*width: 40%;*/
+        /*height: 20%;*/
+        margin: 10px;
+        height: 256px;
+        width: 262px;
+    }
+    .client-one{
+        align-items: center;
+    }
+    .texts-ten img{
+        width: 30%;
+        height: 30%;
+    }
+    .texts-ten p{
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .green{
+        width: 568px;
+        height: 345px;
+    }
+    .green h2{
+        font-size: 16px;
+    }
+    .green img{
+        width: 100%;
+        height: 80%;
+    }
+    .texts-eleven{
+        margin-left: 20px;
+    }
+    .texts-eleven button{
+        width: 100px;
+        height: 40px;
+    }
+    .footer{
+        /*display: grid;*/
+        /*grid-template-columns: 200px 300px 150px;*/
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 300px;
+    }
+    .texts-twelve h1{
+        font-size: 20px;
+        text-align: center;
+    }
+    .texts-twelve p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .textss p{
+        font-size: 20px;
+        text-align: center;
+    }
+    .white{
+        height: 39px;
+        width: 121px;
+    }
+    .last-text{
+        font-size: 14px;
+        margin-top: 300px;
+    }
+}
